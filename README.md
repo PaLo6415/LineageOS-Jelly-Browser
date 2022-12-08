@@ -1,3 +1,4 @@
 # LineageOS-Jelly-Browser
 
-Soon
+Android 1+
+Arm64 only 
